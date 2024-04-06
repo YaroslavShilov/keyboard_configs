@@ -42,7 +42,7 @@
       "KC_COMM",
       "RALT_T(KC_DOT)",
       "KC_SLSH",
-      "KC_BSLS",
+      "KC_RBRC",
       "LT(3,KC_ESC)",
       "LT(1,KC_SPC)",
       "LT(2,KC_TAB)",
